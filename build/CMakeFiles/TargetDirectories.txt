@@ -1,0 +1,3 @@
+C:/Users/aksinia/Desktop/OOP/build/CMakeFiles/CMakeProject.dir
+C:/Users/aksinia/Desktop/OOP/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/aksinia/Desktop/OOP/build/CMakeFiles/ZERO_CHECK.dir
